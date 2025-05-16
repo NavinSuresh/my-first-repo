@@ -1,4 +1,5 @@
-Hello, GitHub! This is my first local change.
+Hello, GitHub! Welcome, all users!
+This is my first local change.
 This change is made in the feature-branch.
 
 
